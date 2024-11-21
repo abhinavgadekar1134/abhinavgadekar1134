@@ -7,6 +7,5 @@ I'm Abhinav Gadekar
 🤝 Seeking collaboration on open-source projects.  
 📫 How to reach me: Email | LinkedIn  
 🎮 Fun fact: I enjoy exploring new technologies and working on creative solutions.  
-🌍 HackerRank | Kaggle | LinkedIn
 🌍 [HackerRank](https://www.hackerrank.com/profile/AbhinavGadekar) | [LinkedIn](https://www.linkedin.com/in/abhinavgadekar/) | [Portfolio](https://abhinav-gadekar.netlify.app/)
 
