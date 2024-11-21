@@ -2,7 +2,7 @@
 
 I'm Abhinav Gadekar
 
-🔬 Currently working on personal and collaborative deep learning projects to enhance my technical skills.  
+🔬 Currently working on personal and collaborative projects to enhance my technical skills.  
 💻 Learning advanced concepts in C++, Web Development Frameworks (MERN), Python, and machine learning.  
 🤝 Seeking collaboration on open-source projects.  
 📫 How to reach me: Email | LinkedIn  
