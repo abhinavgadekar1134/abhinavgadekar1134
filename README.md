@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Hi there 👋  
 I'm Abhinav Gadekar
 
 🔬 Currently working on personal and collaborative deep learning projects to enhance my technical skills.  
